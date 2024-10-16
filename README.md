@@ -1,7 +1,5 @@
 # CRTP-cheatsheet
 
-file:
-[SOAPHound.zip](https://github.com/user-attachments/files/17392825/SOAPHound.zip)
 
 
 
